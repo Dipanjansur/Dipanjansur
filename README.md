@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dipanjan Sur</h1>
 <h3 align="center">🚀 I'm an experienced frontend developer with expertise in writing well structured,memory-efficient code for embedded devices and browsers now learning and working on backend micro-services development</h3>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt=focusing on code" /></p>
-- 🔭 I’m currently working on **JavaScript React**
+- 🔭 I’m currently working on  **Java, Spring boot**
 
-- 🌱 I’m currently learning **Java,Spring boot**
+- 🌱 I’m currently learning **Java, Spring boot, Spring Cloud, gRPC, Kafka, Redis**
 
-- 👩🏻‍💻 I have experience in **frontend development with Qt and React**
+- 👩🏻‍💻 I have experience in **frontend development with Qt and React and backend development with Spring Boot in Microservice architecture**
 
 - 📝 I regularly write articles on [https://hashnode.com/@DipSur](https://hashnode.com/@DipSur)
 
